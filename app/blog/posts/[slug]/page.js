@@ -1,0 +1,1 @@
+export default function Post({params}){return <h1>Post: {params.slug}</h1>}
